@@ -1,16 +1,16 @@
 /*
-    Name:
-    Difficulty:
-    Topics:
+    Name: 
+    Difficulty: 
+    Topics: 
 
-    Challenge:
-
-
-    Constraints:
+    Challenge: 
 
 
+    Constraints: 
 
-    Follow-up:
 
-    Date Completed:
+
+    Follow-up: 
+
+    Date Completed: 
 */
